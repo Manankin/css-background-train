@@ -1,16 +1,28 @@
 .task1 {
+  background-color: green;
 }
 
 .task2 {
+  background-image: url(../img/img-400x200.jpg);
 }
 
 .task3 {
+  background: linear-gradient(
+    rgb(251, 255, 0),
+    rgb(238, 10, 10)
+  );
 }
 
 .task4 {
+  background: radial-gradient(
+    #3f87a6,
+    #ebf8e1,
+    #f69d3c 65%
+  );
 }
 
 .task5 {
+  background-color: ;
 }
 
 .task6 {
